@@ -1,0 +1,8 @@
+{
+    "wallet": {
+        "mainSeed": "seed that generates your wallet 123123",
+        "minAmountSatToOperate": 20000
+    },
+    "insightUrl": "https://tbch.blockdozer.com/insight-api/",
+    "network": "testnet"
+}
